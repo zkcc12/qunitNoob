@@ -1,0 +1,11 @@
+{
+  "name": "qunitnoob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "node-qunit-phantomjs index.html"
+  },
+  "author": "mgarnier11",
+  "license": "ISC"
+}
